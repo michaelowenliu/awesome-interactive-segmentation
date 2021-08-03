@@ -1,7 +1,7 @@
 # Awesome-interactive-segmentation
 
 **2021**
-- EdgeFlow: Achieving Practical Interactive Segmentation with Edge-Guided Flow [paper]()[![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleSeg.svg?logo=github&label=Stars)](https://github.com/PaddlePaddle/PaddleSeg/tree/release/2.2/contrib/EISeg)
+- EdgeFlow: Achieving Practical Interactive Segmentation with Edge-Guided Flow [paper]() [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleSeg.svg?logo=github&label=Stars)](https://github.com/PaddlePaddle/PaddleSeg/tree/release/2.2/contrib/EISeg) :thumbsup: :thumbsup: :thumbsup:
 - Guided Interactive Video Object Segmentation Using Reliability-Based Attention Maps [CVPR] [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Heo_Guided_Interactive_Video_Object_Segmentation_Using_Reliability-Based_Attention_Maps_CVPR_2021_paper.pdf) [![GitHub stars](https://img.shields.io/github/stars/yuk6heo/GIS-RAmap.svg?logo=github&label=Stars)](https://github.com/yuk6heo/GIS-RAmap)
 - Deep Interactive Thin Object Selection [WACV] [paper](https://openaccess.thecvf.com/content/WACV2021/papers/Liew_Deep_Interactive_Thin_Object_Selection_WACV_2021_paper.pdf) [![GitHub stars](https://img.shields.io/github/stars/liewjunhao/thin-object-selection.svg?logo=github&label=Stars)](https://github.com/liewjunhao/thin-object-selection)
 - Reviving Iterative Training with Mask Guidance for Interactive Segmentation [arXiv] [paper](https://arxiv.org/pdf/2102.06583.pdf) [![GitHub stars](https://img.shields.io/github/stars/saic-vul/ritm_interactive_segmentation.svg?logo=github&label=Stars)](https://github.com/saic-vul/ritm_interactive_segmentation) :thumbsup: :thumbsup:
