@@ -21,6 +21,9 @@
 - DISIR: Deep Image Segmentation with Interactive Refinement [arXiv] [paper](https://arxiv.org/pdf/2003.14200.pdf) [![GitHub stars](https://img.shields.io/github/stars/delair-ai/DISIR.svg?logo=github&label=Stars)](https://github.com/delair-ai/DISIR)
 - FCANet: Interactive image segmentation with first click attention [CVPR] [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Interactive_Image_Segmentation_With_First_Click_Attention_CVPR_2020_paper.pdf) [![GitHub stars](https://img.shields.io/github/stars/delair-ai/DISIR.svg?logo=github&label=Stars)](https://github.com/Res2Net/Res2Net-fcanet)
 
+**2020**
+- BRS: Rethinking Backpropagating Refinement for Interactive Segmentation [CVPR] [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Jang_Interactive_Image_Segmentation_via_Backpropagating_Refinement_Scheme_CVPR_2019_paper.pdf) [![GitHub stars](https://img.shields.io/github/stars/saic-vul/fbrs_interactive_segmentation.svg?logo=github&label=Stars)](https://github.com/wdjang/BRS-Interactive_segmentation)
+
 **2018**
 - Deep Extreme Cut: From Extreme Points to Object Segmentation [CVPR] [paper](https://arxiv.org/pdf/1711.09081v2.pdf) [![GitHub stars](https://img.shields.io/github/stars/scaelles/DEXTR-PyTorch.svg?logo=github&label=Stars)](https://github.com/scaelles/DEXTR-PyTorch) :thumbsup:
 - Interactive Image Segmentation with Latent Diversity [CVPR] [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Interactive_Image_Segmentation_CVPR_2018_paper.pdf) [![GitHub stars](https://img.shields.io/github/stars/isl-org/Intseg.svg?logo=github&label=Stars)](https://github.com/isl-org/Intseg)
