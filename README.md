@@ -2,8 +2,8 @@
 
 **2022**
 - FocalClick: Towards Practical Interactive Image Segmentation [CVPR] [paper](https://arxiv.org/pdf/2204.02574.pdf) [![GitHub stars](https://img.shields.io/github/stars/XavierCHEN34/ClickSEG.svg?logo=github&label=Stars)](https://github.com/stars/XavierCHEN34)
-- PseudoClick: Interactive Image Segmentation with Click Imitation [ECCV] [paper]((https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660717.pdf))
-- Simpleclick: Interactive image segmentation with simple vision transformers [arXiv] [paper](https://arxiv.org/pdf/2210.11006.pdf) [![GitHub stars](https://img.shields.io/github/stars/apple/ml-probabilistic-attention.svg?logo=github&label=Stars)]((https://github.com/uncbiag/SimpleClick))
+- PseudoClick: Interactive Image Segmentation with Click Imitation [ECCV] [paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660717.pdf)
+- Simpleclick: Interactive image segmentation with simple vision transformers [arXiv] [paper](https://arxiv.org/pdf/2210.11006.pdf) [![GitHub stars](https://img.shields.io/github/stars/apple/ml-probabilistic-attention.svg?logo=github&label=Stars)](https://github.com/uncbiag/SimpleClick)
 
 **2021**
 - Conditional Diffusion for Interative Segmentation [ICCV] [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Conditional_Diffusion_for_Interactive_Segmentation_ICCV_2021_paper.pdf)
