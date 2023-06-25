@@ -21,7 +21,7 @@
 - DISIR: Deep Image Segmentation with Interactive Refinement [arXiv] [paper](https://arxiv.org/pdf/2003.14200.pdf) [![GitHub stars](https://img.shields.io/github/stars/delair-ai/DISIR.svg?logo=github&label=Stars)](https://github.com/delair-ai/DISIR)
 - FCANet: Interactive image segmentation with first click attention [CVPR] [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Interactive_Image_Segmentation_With_First_Click_Attention_CVPR_2020_paper.pdf) [![GitHub stars](https://img.shields.io/github/stars/delair-ai/DISIR.svg?logo=github&label=Stars)](https://github.com/Res2Net/Res2Net-fcanet)
 
-**2020**
+**2019**
 - BRS: Rethinking Backpropagating Refinement for Interactive Segmentation [CVPR] [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Jang_Interactive_Image_Segmentation_via_Backpropagating_Refinement_Scheme_CVPR_2019_paper.pdf) [![GitHub stars](https://img.shields.io/github/stars/saic-vul/fbrs_interactive_segmentation.svg?logo=github&label=Stars)](https://github.com/wdjang/BRS-Interactive_segmentation)
 
 **2018**
